@@ -5,5 +5,5 @@ author 'FN'
 description 'Density control script'
 
 client_scripts {
-	'Density.Client.net.dll',
+	'DensitySuppress.Client.net.dll',
 }
